@@ -4,7 +4,7 @@ layout: template
 filename: penncnb.md
 --- 
 
-![Header image](/assets/images/CNB_header.png)
+![Header image](/assets/images/CNB_header.png header)
 
 # Penn Neurocognitive Battery (CNB)
 
